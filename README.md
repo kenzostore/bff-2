@@ -12,9 +12,10 @@ $ python2 bff-2.py
 <img src="https://github.com/Mark-Zuck/bff-2/blob/main/ajg/IMG_20211206_095618.jpg" width="640" title="Menu" alt="Menu">
 
 #### Methode crack :
-• 1 Methode api (fast crack) <br>
-• 2 Methode mbasic (slow crack)<br>
-• 3 Methode mobile (very slow crack) <br>
+• 1 Methode b-api (fast crack) <br>
+• 2 Methode graph (fast crack) <br>
+• 3 Methode mbasic (slow crack)<br>
+• 4 Methode mobile (very slow crack) <br>
 #
 If you can't use this script or there is a bug in the script, please contact me
 #### contact me
