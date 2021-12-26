@@ -3,13 +3,13 @@
 $ pkg update && pkg upgrade <br>
 $ pkg install python2 <br>
 $ pkg install git <br>
-$ git clone https://github.com/Mark-Zuck/bff-2 <br>
+$ git clone https://github.com/kenzostore/bff-2.git <br>
 $ cd bff-2 <br>
 $ pip2 install -r requirements<br>
 $ python2 bff-2.py
 #
 #### Info Menu :<br>
-<img src="https://github.com/Mark-Zuck/bff-2/blob/main/ajg/IMG_20211222_164208.jpg" width="640" title="Menu" alt="Menu">
+<img src="https://github.com/kenzostore/bff-2/blob/main/ajg/IMG_20211222_164208.jpg" width="640" title="Menu" alt="Menu">
 
 #### Methode crack :
 • 1 Methode b-api (fast crack) <br>
