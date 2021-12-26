@@ -14,7 +14,7 @@ ingfoh_nya = (
  - author      : Romi Afrizal
  - facebook    : facebook.com/romi.afrizal.102
  - fanspage    : facebook.com/100022086172556
- - whatsap     : +6282371648186
+ - whatsap     : +62882007289925
  - github      : github.com/Mark-Zuck
  - script name : bff-2
  - version     : 1.1
